@@ -1427,10 +1427,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hongliang-org/flow-editor@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@hongliang-org/flow-editor/-/flow-editor-1.0.6.tgz#5b80d17f67ce47136db901a31fcd46c6afc6f5b2"
-  integrity sha512-1zqgcEQBrlOkdNS/gFj8+Ljd1Lvi7FuYTmg7xV9b9M0jmLxpAF21T4te/rh41dxUTEiMYEnDvoNVEa/Y0sZqEQ==
+"@hongliang-org/flow-editor@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@hongliang-org/flow-editor/-/flow-editor-1.0.9.tgz#f102fc4bf0b3e2365250cd9f7bb81a1003a3adc6"
+  integrity sha512-N3XjI9IAfp6BQxMdjfMXxWPLgOdXSixEP9twY9t+rc1vargsW30lHmI5+rA8IHLDPJiUNxpA+gGIh3Z1Vmh9/A==
   dependencies:
     "@antv/g6" "4.0.3"
     "@types/react" "^16.9.35"

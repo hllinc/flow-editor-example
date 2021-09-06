@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import FlowEditor from '@hongliang-org/flow-editor/dist/src';
+import FlowEditor from '@hongliang-org/flow-editor';
 
 const flowMockData = {
     height: 800,
